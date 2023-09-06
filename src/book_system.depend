@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1693745937 source:c:\users\mahmoud\desktop\book_system\main.cpp
+	<bits/stdc++.h>
+	"user.h"
+	"book.h"
+	"Admin.h"
+	"library.h"
+	"login.h"
+	"checkout.h"
+
+1693574226 source:c:\users\mahmoud\desktop\book_system\user.cpp
+	<iostream>
+	<string>
+	"user.h"
+
+1693745981 c:\users\mahmoud\desktop\book_system\user.h
+	<string>
+	<vector>
+	"book.h"
+	"library.h"
+
+1693075888 source:c:\users\mahmoud\desktop\book_system\admin.cpp
+	"Admin.h"
+	"book.h"
+	<vector>
+	<string>
+
+1693075895 c:\users\mahmoud\desktop\book_system\admin.h
+	"book.h"
+	"library.h"
+
+1692990084 c:\users\mahmoud\desktop\book_system\book.h
+	<string>
+
+1692990278 source:c:\users\mahmoud\desktop\book_system\book.cpp
+	<string>
+	"book.h"
+
+1693660273 source:c:\users\mahmoud\desktop\book_system\library.cpp
+	<iostream>
+	<string>
+	"library.h"
+	"book.h"
+
+1693660046 c:\users\mahmoud\desktop\book_system\library.h
+	<vector>
+	"book.h"
+
+1693746035 c:\users\mahmoud\desktop\book_system\login.h
+	<iostream>
+	<string>
+	<fstream>
+
+1693574518 source:c:\users\mahmoud\desktop\book_system\login.cpp
+	<string>
+	<map>
+	"login.h"
+
+1693746095 source:c:\users\mahmoud\desktop\book_system\checkout.cpp
+	<iostream>
+	<string>
+	<vector>
+	<utility>
+	<ctime>
+	<algorithm>
+	"checkout.h"
+	"user.h"
+	"book.h"
+
+1693660517 c:\users\mahmoud\desktop\book_system\checkout.h
+	<string>
+	<vector>
+	<utility>
+	<ctime>
+	"user.h"
+	"book.h"
+
