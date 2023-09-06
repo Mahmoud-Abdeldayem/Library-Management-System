@@ -6,6 +6,8 @@ The Library Management System is a C++ program that allows users to manage a lib
 - SOLID Principles
 - File Handling
 - Exception Handling
+- Basic Data Structures
+- Basic Algorithms
 
 ## Functionality
 
